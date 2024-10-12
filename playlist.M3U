@@ -77,19 +77,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports 3 
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
-#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports 4 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
-
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Sports",Tennis chanel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Sports", ASTRO ARENA
-#https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroarena1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png" group-title="Sports", ASTRO ARENA 2
-#https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroarena2.m3u8
-
+#EXTINF
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sports",TNT Sports 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
