@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 ch-number="30" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",GTV
+https://1s1.rctiplus.id/gtv2023-avc1_3500000=8-mp4a_106400_eng=9.m3u8
+#EXTINF:-1 ch-number="28" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RCTI
+https://1s1.rctiplus.id/rcti2023-avc1_3500000=8-mp4a_128000=2.m3u8
+#EXTINF:-1 ch-number="29" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MNCTV
+https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
+#EXTINF:-1 ch-number="31" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",iNEWS
+https://1s1.rctiplus.id/inews2023-avc1_3500000=8-mp4a_128000_eng=2.m3u8
+#EXTINF:-1 ch-number="1" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
+#EXTINF:-1 ch-number="2" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI KALTIM
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_2500000=10004-mp4a_96000=20001.m3u8
+#EXTINF:-1 ch-number="3" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI Kanal 3
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 ch-number="4" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 ch-number="25" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",NET TV
+http://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SIN PO tv
+http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="21" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w701162025_b744100_sleng.m3u8
+#EXTINF:-1 ch-number="20" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1673177833_b744100_sleng.m3u8
+#EXTINF:-1 ch-number="40" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w232638354_b384000_sleng.m3u8
+#EXTINF:-1 ch-number="41" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w682795249_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SAMARINDA TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w1941322208.m3u8
+#EXTINF:-1 ch-number="23" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SCTV HD
+https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv-avc1_2500000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 ch-number="24" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",INDOSIAR HD
+https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_2500000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 ch-number="35" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MOJI HD
+https://cdn09jtedge.indihometv.com/joss/134/ochannel/chunklist_w1239416120_b1044100_sleng.m3u8
+#EXTINF:-1 ch-number="36" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MENTARITV HD
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/chunklist_w1811047424_b1044100_sleng.m3u8
+#EXTINF:-1 ch-number="126" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",Ajwa HD
+https://sritv.serv00.net/red/play.m3u8?id=7464&type=hls|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="125" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",KOMPASTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="22" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",METRO TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1395883617_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",BN CHANNEL
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",GARUDA TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-number="27" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVONE HD
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="26" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",ANTV HD
+https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_2500000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 ch-number="37" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",VTV
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
