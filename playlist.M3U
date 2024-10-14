@@ -252,10 +252,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg" group-title="Sports",Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
-#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sports",Astro SuperSport 1
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sport",Astro SuperSport 1
 https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sport ",Astro SuperSport 2
+https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="Sport",Astro SuperSport 3
+https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="Sport",Astro SuperSport 4
+https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="Sport",Astro Cricket
+https://webhdrunns.mizhls.ru/lb/premium370/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="PERSIJA TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sports",PERSIJA TV
+#EXTINF:-1 tvg-name="PERSIJA TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport",PERSIJA TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
