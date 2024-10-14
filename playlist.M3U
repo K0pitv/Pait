@@ -26,6 +26,23 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83
 
   
 SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="Sports",DSTV: SUPERSPORTS LALIGA HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="Sports",DSTV : SUPERSPORTS PSL HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/517.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="Sports",DSTV : SUPERSPORTS PREMIERLEAGUE HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="Sports",DSTV : SUPERSPORTS FOOTBALL HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Sports",UK: PremierSports 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5029.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Sports",UK: PremierSports 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5030.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="Sports",UK: SkySports PremierLeague HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="Sports",UK: SKYSPORTS FOOTBALL
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/19.ts
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
