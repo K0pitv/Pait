@@ -2254,16 +2254,35 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
 
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="SOR RINGIN ",CH TEST
+https://webhdrunns.mizhls.ru/lb/premium126
 
-https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports ",CH TEST
+https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="SOR RINGIN ",CH TEST
 https://webhdrunns.mizhls.ru/lb/premium127/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="CH TEST 3" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="Sports",CH TEST 3
+#EXTINF:-1 tvg-name="CH TEST 3" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="SOR RINGIN",CH TEST 3
 https://webhdrunns.mizhls.ru/lb/premium128/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="Sports",CH TEST
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="SOR RINGIN",CH TEST
 https://webhdrunns.mizhls.ru/lb/premium129/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="Sports",CH TEST
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SOR RINGIN",CH TEST
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="SOR RINGIN ",CH TEST
+https://webhdrunns.mizhls.ru/lb/premium131/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="SOR RINGIN ",CH TEST
+https://webhdrunns.mizhls.ru/lb/premium132/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="CH TEST 3" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="SOR RINGIN",CH TEST 3
+https://webhdrunns.mizhls.ru/lb/premium133/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="SOR RINGIN",CH TEST
+https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="CH TEST" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="SOR RINGIN",CH TEST
+https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+
+
+
+
 
 
 
