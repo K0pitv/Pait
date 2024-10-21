@@ -19,7 +19,7 @@ https://atemeshield1-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#KODIPROP:inputstream.adaptive.license_key=2ahUKEwjMo6vBsZ-JAxVIXmwGHeuvOCQQFnoECCEQAQ&usg=AOvVaw2BKCHLePkCOmUSauLC40wZ
 #EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2 HD
 https://atemeshield2-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
